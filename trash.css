@@ -1,0 +1,30 @@
+@font-face {
+    font-family: trash;
+    src: url(./src/font/trash/trashplusregular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: trash;
+    src: url(./src/font/trash/trashplusbold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: trash;
+    src: url(./src/font/trash/trashplusbold_italic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: trash;
+    src: url(./src/font/trash/trashpluslight.ttf);
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: trash;
+    src: url(./src/font/trash/trashplusmedium.otf);
+    font-weight: 500;
+    font-style: normal;
+}
