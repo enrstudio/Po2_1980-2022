@@ -139,6 +139,10 @@ div{
     font-weight: bold;
 }
 
+.red{
+    color: #e20c15;
+}
+
 .left{
     text-align: left;
 }
