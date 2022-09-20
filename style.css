@@ -214,18 +214,16 @@ div{
 }
 
 .memory_btn{
-    height: 5vh;
+    height: 10vh;
     font-size: 2vh;
-    background-color: white;
-    color: navy;
+    background-color: black;
+    color: white;
     text-decoration: none;
     font-weight: 400;
 }
 .memory_btn:hover{
-    height: 5vh;
-    font-size: 2vh;
-    background-color: white;
-    color: red;
+    font-size: 2.2vh;
+    background-color: red;
     text-decoration: none;
     font-weight: 400;
 }
