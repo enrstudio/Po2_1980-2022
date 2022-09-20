@@ -204,6 +204,31 @@ div{
     text-decoration: none;
     font-weight: 400;
 }
+.b_white{
+    height: 10vh;
+    font-size: 2vh;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.memory_btn{
+    height: 5vh;
+    font-size: 2vh;
+    background-color: white;
+    color: navy;
+    text-decoration: none;
+    font-weight: 400;
+}
+.memory_btn:hover{
+    height: 5vh;
+    font-size: 2vh;
+    background-color: white;
+    color: red;
+    text-decoration: none;
+    font-weight: 400;
+}
 
 .p_btn{
     padding: 0 2vh;
@@ -277,6 +302,10 @@ div{
 
     .banner{
         height: 6vh;
+    }
+
+    .cover{
+        margin: 6vh 2vh;
     }
     .age{
         font-size: 12vh;
