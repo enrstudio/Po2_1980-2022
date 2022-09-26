@@ -204,6 +204,20 @@ div{
     text-decoration: none;
     font-weight: 400;
 }
+
+.point_border{
+    border: 3px dotted #0000;
+    animation-name: blinking_border;
+    animation-duration: 0.2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blinking_border{
+    50% {
+        border: 3px dotted white;
+    }
+}
+
 .b_white{
     height: 10vh;
     font-size: 2vh;
@@ -250,8 +264,18 @@ div{
     margin-bottom: 20vh;
 }
 
+.help p{
+    padding: 5vh;
+}
+
 .map{
     width: 100%;
+}
+
+.reliquie{
+    max-width: 100%;
+    padding: 2vh;
+    word-break: break-word;
 }
 
 
